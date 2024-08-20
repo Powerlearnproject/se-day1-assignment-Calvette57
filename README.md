@@ -20,6 +20,30 @@ Importance.
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+1) The Birth of Structured Programming (1960s)
+It emerged during the 1960s particularly with the publication of "Structured Programming by Edsger W Djkstra"
+This paradigm introduced the concept of using control structures such as loops, conditionals and subroutines to make code more readable and less error prone.
+
+Impact.
+- It helped reduce complexity in code making it easier to understand and debug.
+- It laid the groundwork for further advancements in programming practices and contributed to the development of methodologies such as Object Oriented Programming (OOP)
+
+2) The development of Agile Methodology (1990s)
+It was formalized by Agile Manifesto in 2001.
+It revolutionalized software development by promoting incremental development, collaboration and flexibility.
+
+Impact.
+- It emphasized close collaboration between development teams and stakeholders improving alignment with user needs and project goals.
+- It facilitated improvement and refinement of software leading to more effective and responsive development practices.
+
+3) The rise of DevOps (2000s-2010s)
+DevOps emerged as a key milestone in the 2000s combining software development (Dev) and IT operations (Ops) into a unified approach.
+It aimed at improving collaboration, efficiency and automation in the software delivery process.
+
+Impact.
+- DevOps practices enable more frequent and reliable software releases reducing time to market by integrating development and operations.
+- It increased automation reducing manual errors and speeds up the development cycle.
+- DevOps fosters a culture of collaboration between development and operations teams breaking down silos and improving overall efficiency.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
