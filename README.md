@@ -47,6 +47,65 @@ Impact.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
+1) Requirement Analysis.
+It involves gathering and analyzing the needs and expectations of stakeholders and users.
+Tasks:
+- Conduct interviews, surveys, and meetings.
+- Create requirement specifications and obtain approval from stakeholders.
+Outcome:
+ A detailed Software Requirements Specification (SRS) document.
+
+2) System Design.
+In this phase the requirements gathered during the analysis phase are used to create the software architecture and design.
+Used to transform the requirements into a blueprint for building the software.
+Tasks:
+- Design system architecture, database schemas, and user interfaces.
+- Specify hardware and software requirements.
+Outcome:
+Design documents, including architecture diagrams, data models, and UI designs.
+
+3) Implementation (Coding).
+Its to develop the software according to the design documents.
+The actual coding of the software takes place in this phase.
+Tasks:
+- Write code in the chosen programming language(s).
+- Create unit tests to verify the functionality of individual components.
+Outcome:
+The actual software, ready for integration and testing.
+
+4) Testing.
+Involves systematically checking the software to ensure it meets the specified requirements and is free of defects.
+Tasks:
+- Conduct various types of testing, including unit testing, integration testing, system testing, and user acceptance testing (UAT).
+- Identify, report, and fix bugs.
+Outcome:
+A stable version of the software, ready for deployment.
+
+5) Deployment.
+Once the software has been tested and is ready for release it is deployed to the production environment where it becomes available to users in the target environment.
+Tasks:
+- Install the software on the production servers.
+- Configure the environment (e.g., databases, networks).
+- Provide training and documentation to users.
+Outcome:
+The software is live and operational.
+
+6) Maintenance.
+Conducted to address any issues, bugs, or enhancements after the software has been deployed.
+Tasks:
+- Monitor the software’s performance.
+- Provide updates, patches, and new features as needed.
+- Handle user support and feedback.
+Outcome:
+An updated and well-maintained software system that continues to meet user needs.
+
+7) Evaluation.
+It involves reviewing the software's performance and success post deployment to assess if it meets its objectives and to gather kessons learned.
+Tasks:
+- Review the software’s effectiveness, efficiency, and user satisfaction.
+- Gather feedback for future improvements.
+Outcome:
+Insights and recommendations for future projects or versions.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
