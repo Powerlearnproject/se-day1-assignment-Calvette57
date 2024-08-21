@@ -376,3 +376,21 @@ Importance of Prompt Engineering in Interacting with AI Tools:
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Example of a Vague Prompt:
+
+"Can you draw a picture of a cat?"
+
+Improved Prompt:
+
+"Can you create a digital illustration of a grey cat sitting on a windows, looking out at a sunny garden with colorful flowers?"
+
+Explanation:
+
+The improved prompt is more effective because it provides clear, specific details about what the user wants to be depicted. It specifies:
+
+- Type of Cat: A grey cat.
+- Pose/Action: The cat is sitting.
+- Location: On a window.
+- Scene Description: The cat is looking out at a sunny garden with colorful flowers.
+
+This clarity helps ensure that the artist or AI has a precise understanding of the request, reducing the chances of misinterpretation and leading to a result that closely matches the user’s expectations.
