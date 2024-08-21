@@ -109,9 +109,68 @@ Insights and recommendations for future projects or versions.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+1) Waterfall Methodology.
+Waterfall is a linear and sequential approach where each phase of the software development life cycle must be met before the next phase begins.
+Characteristics.
+- Phases are distinct and non overlapping.
+- It emphasizes on comprehensive documentation at each stage.
+- Changes are difficult to implement once a phase is completed.
+
+Strengths.
+It works well when requirements are well understood and likely to change.
+Provides a clear, structured plan and timeline which can make project management straightforward.
+Its suitable for projects with fixed scope, budget and timelines.
+Weaknesses.
+It's difficult to accommodate changes once the project is underway.
+Testing occurs only after implementation leading to late discovery of issues.
+
+Scenarios.
+- Projects in industries like healthcare or aerospace ehere strict regulatory compliance and documentation are required.
+- Projects with well defined requirements and low risk of change such as small internal tools or utilities.
+- Fixed price contracts where the scope and requirements are unlikely to change.
+
+Example.
+Developing a custom payroll system for a small company where the requirements are well defined and unlikely to change.
+
+2) Agile Methodology.
+Its a progressive and incremental approach that emphasizes flexible, collaboration and customer feedback.
+It divides the project into small, manageable units called sprints allowing for a continuous movement and adaptation.
+
+Characteristics.
+- Work is completed in ahort cycles known as sprints.
+- Its adaptable to changes allowing teams to respond to new requirements or feedback at any stage.
+- There is frequent interactions with customers to refine requirements and ensure the product meets their needs.
+
+Strengths.
+It easily accomodates changes in requirements or scope.
+Delivers working software early and often provides opportunities for fredback or adjustments.
+It priotitizes user needs and involves stakeholders throughout the development process.
+Weaknesses.
+It less emphasizes on comprehensive documentation which might lead to challenges in knowledge transfer and project handovers.
+Continuous changes and a lack of a fixed plan can lead to scope creep if not managed properly.
+
+Scenarios.
+- Projects where requirements are expected to evolve such as developing new consumer app where user feedback is crucial.
+- Projects that involve new technology or innovative solutions where frequent feedback and adaptation are necessary to achieve the best results.
+- Large scale projects with high uncertainty or complex requirements where iterative development helps manage risk and adapt to changes.
+
+Example:
+Developing a new e-commerce platform with ongoing user feedback and rapidly changing market conditions.
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+Roles of a software developer.
+- To write nd maintain the code for the software application baded on design specifications and requirements.
+- Converting design documents into functional codes ensuring that the software architecture and components are correctly implemented.
+- To identify, troubleshoot and fix bugs in the code.
+- Working closely with Quality Assurance Engineers and Project Managers to ensure that the software meets requirements and integrates well with other components.
+- To facilitate future maintenance and knowledge transfer.
+- Performing unit testing and ensure that the code integrates properly with the rest of the system.
+- Participating in code reviews to ensure code quality and adherence to coding standards.
+
+Roles of a Quality Assurance Engineer.
+- To develop test plans and test cases based on requirements and design documents to ensure comprehensive coverage of application.
+- Documenting and reporting bugs and anomalies found during 
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
