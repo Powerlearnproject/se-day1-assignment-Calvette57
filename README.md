@@ -170,7 +170,21 @@ Roles of a software developer.
 
 Roles of a Quality Assurance Engineer.
 - To develop test plans and test cases based on requirements and design documents to ensure comprehensive coverage of application.
-- Documenting and reporting bugs and anomalies found during 
+- Documenting and reporting bugs and anomalies found during testing.
+- Developing and maintaining automated test scripts and frameworks to improve testing efficiency and coverage.
+- Working closely with developers and other team members to understand requirements, resolve issues and ensure quality standards are met throughout the development cycle.
+- Contributing to improving testing processes,tools and methodologies ro enhance overall product quality.
+- To track and analyze quality metrics to assess the effectiveness of the testing process and overall software quality.
+- Executing Functional, integration, system and regression testing to identify defects and verify that the software meets quality standards.
+
+Roles of a Project Manager.
+- Developing project plans including timelines, resources and budgets.
+- Allocating resources effectively including managing team members tasks and responsibilities.
+- Identify potential risks and issues that might impact the project.
+- Developing and implementing risk mitigation strategies.
+- Acting as a primary point of contact such as managing team members tasks and responsibilities.
+- Maintaining project documentation including peoject plans, status reports and change logs.
+- Ensuring that project deliverables meet quality standards and adhere to the agreed upon specifications.
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
